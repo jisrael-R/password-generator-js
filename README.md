@@ -1,10 +1,10 @@
 # Password Generator 
 
 This project is simply an application that creates random passwords provided by selecting various character  options such as:
-* Uppercase
-* Lowercase
-* Numbers
-* Special Symbols.
+* **Uppercase**
+* **Lowercase**
+* **Numbers**
+* **Special Symbols.**
  
 You'll be guided through a series of prompts and alerts in order to create your desired Password.
 

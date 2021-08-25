@@ -1,4 +1,4 @@
-# password Generator 
+# Password Generator 
 
 This project is simply an application that creates random passwords provided by selecting various character  options such as:
 * Uppercase

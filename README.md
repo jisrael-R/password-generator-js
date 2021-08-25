@@ -8,7 +8,7 @@ This project is simply an application that creates random passwords provided by 
  
 You'll be guided through a series of prompts and alerts in order to create your desired Password.
 
-check link below to generate your random password.
+check the link below to generate your random password.
 https://jisrael-r.github.io/password-generator-js/
 
 <img src= "Assets/img:readme/promp.png">
